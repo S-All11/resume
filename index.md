@@ -13,35 +13,25 @@ AIをはじめ電気・電子回路設計や3DCADなども実習の中で学ん�
 
 ## スキル
 
-- 電子回路制作・ブレッドボード/Arduino
-
-- 3Dモデリング/3Dプリンター
-
+- 電子回路制作・ブレッドボード/Arduino  
+- 3Dモデリング/3Dプリンター  
 - C・Python プログラミング
 
 ## 資格
 
-- 第二種電気工事士 取得
-
-- 3次元CAD利用技術者試験 2級合格
-
+- 第二種電気工事士 取得  
+- 3次元CAD利用技術者試験 2級合格  
 - IoT検定パワーユーザー試験　グレードB合格
 
 ## 実績
-- Autodesk Fusion学生デザインコンテスト6月入賞  
-[Fusion学生デザインコンテスト「傘」の結果発表ページ](https://www.myautodesk.jp/fusion-contest-2024/contest-result-03.html)
+- [Autodesk Fusion学生デザインコンテスト6月入賞](https://www.myautodesk.jp/fusion-contest-2024/contest-result-03.html)
 
-- Autodesk Fusion学生デザインコンテスト7月入賞  
-[Fusion学生デザインコンテスト「夏祭り」の結果発表ページ](https://www.myautodesk.jp/fusion-contest-2024/contest-result-04.html)
+- [Autodesk Fusion学生デザインコンテスト7月入賞](https://www.myautodesk.jp/fusion-contest-2024/contest-result-04.html)
 
-- PLEN Robotics株式会社 長期インターンシップ  
-[PLEN Robotics株式会社のホームページ](https://plenrobotics.com/)
+- [PLEN Robotics株式会社 長期インターンシップ](https://plenrobotics.com/)
 
-- Startup Weekend Osaka Space 4th 参加  
-[Startup Weekend Osaka Space 4thのページ](https://nposw.org/startup-weekend-osaka-space-4th-20240524-26/)
+- [Startup Weekend Osaka Space 4th 参加](https://nposw.org/startup-weekend-osaka-space-4th-20240524-26/)
 
-- TechSeeker HACKATHON 2024 参加  
-[TechSeeker HACKATHON 2024のページ](https://techseeker.jp/hackathon2024)
+- [TechSeeker HACKATHON 2024 参加](https://techseeker.jp/hackathon2024)
 
-- 小さなロボット博　出展  
-[小さなロボット博について](https://yao-city.note.jp/n/ndb1ff2514b36)
+- [小さなロボット博　出展](https://yao-city.note.jp/n/ndb1ff2514b36)
