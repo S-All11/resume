@@ -28,14 +28,14 @@ AIをはじめ電気・電子回路、電子工作や3DCADなども実習の中�
 - IoT検定パワーユーザー試験　グレードB合格
 
 ## 実績
-- Autodesk Fusion学生デザインコンテスト6月入賞</br>
+- Autodesk Fusion学生デザインコンテスト6月入賞  
 [Fusion学生デザインコンテスト「傘」の結果発表ページ](https://www.myautodesk.jp/fusion-contest-2024/contest-result-03.html)
 
-- Autodesk Fusion学生デザインコンテスト7月入賞</br>
+- Autodesk Fusion学生デザインコンテスト7月入賞  
 [Fusion学生デザインコンテスト「傘」の結果発表ページ](https://www.myautodesk.jp/fusion-contest-2024/contest-result-04.html)
 
-- Startup Weekend Osaka Space 4th 参加</br>
+- Startup Weekend Osaka Space 4th 参加  
 [Startup Weekend Osaka Space 4thのページ](https://nposw.org/startup-weekend-osaka-space-4th-20240524-26/)
 
-- TechSeeker HACKATHON 2024 参加</br>
+- TechSeeker HACKATHON 2024 参加  
 [TechSeeker HACKATHON 2024のページ](https://techseeker.jp/hackathon2024)
