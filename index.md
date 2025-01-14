@@ -34,8 +34,14 @@ AIをはじめ電気・電子回路、電子工作や3DCADなども実習の中�
 - Autodesk Fusion学生デザインコンテスト7月入賞  
 [Fusion学生デザインコンテスト「傘」の結果発表ページ](https://www.myautodesk.jp/fusion-contest-2024/contest-result-04.html)
 
+- PLEN Robotics株式会社 長期インターンシップ
+[PLEN Robotics株式会社のホームページ](https://plenrobotics.com/)
+
 - Startup Weekend Osaka Space 4th 参加  
 [Startup Weekend Osaka Space 4thのページ](https://nposw.org/startup-weekend-osaka-space-4th-20240524-26/)
 
 - TechSeeker HACKATHON 2024 参加  
 [TechSeeker HACKATHON 2024のページ](https://techseeker.jp/hackathon2024)
+
+- 小さなロボット博　出展
+[小さなロボット博について](https://yao-city.note.jp/n/ndb1ff2514b36)
