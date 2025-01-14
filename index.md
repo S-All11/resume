@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: Portfolio
+title: Home
 ---
 ## 自己紹介
 当ページをご覧くださいましてありがとうございます。  
@@ -35,6 +35,12 @@ AIをはじめ電気・電子回路設計や3DCADなども実習の中で学ん�
 - [TechSeeker HACKATHON 2024 参加](https://techseeker.jp/hackathon2024)
 
 - [小さなロボット博　出展](https://yao-city.note.jp/n/ndb1ff2514b36)
+
+- [チーム開発・大型フルカラークロック製作](https://zenn.dev/high_machine/articles/7segmentsclock3d)
+
+- [個人開発・ネットワークマイコンカー]()
+
+- [個人開発・砂時計型ハーバリウム用スタンド製作]()
 
 ## 今後の目標
 - ロボットエンジニアになる  
