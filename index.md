@@ -34,7 +34,7 @@ AIをはじめ電気・電子回路、電子工作や3DCADなども実習の中�
 - Autodesk Fusion学生デザインコンテスト7月入賞  
 [Fusion学生デザインコンテスト「傘」の結果発表ページ](https://www.myautodesk.jp/fusion-contest-2024/contest-result-04.html)
 
-- PLEN Robotics株式会社 長期インターンシップ
+- PLEN Robotics株式会社 長期インターンシップ  
 [PLEN Robotics株式会社のホームページ](https://plenrobotics.com/)
 
 - Startup Weekend Osaka Space 4th 参加  
