@@ -15,18 +15,31 @@ AIをはじめ電気・電子回路、電子工作や3DCADなども
 まだまだ発展途上過程ではありますが私の経歴について
 ご覧いただけますと大変うれしく思います。
 
-## 実績
-- Startup Weekend Osaka Space 4th 参加
-https://nposw.org/startup-weekend-osaka-space-4th-20240524-26/
-- TechSeeker HACKATHON 2024 参加
-https://techseeker.jp/hackathon2024
-- Autodesk Fusion学生デザインコンテスト6月入賞
-https://www.myautodesk.jp/fusion-contest-2024/contest-result-03.html
-- Autodesk Fusion学生デザインコンテスト7月入賞
-https://www.myautodesk.jp/fusion-contest-2024/contest-result-04.html
-https://s-all11.github.io/all_posts.html
-- 
 ## スキル
+
+- 電子回路制作・ブレッドボード/Arudion
+
+- 3Dモデリング/3Dプリンター
+
+- C ・ python プログラミング
+
+## 資格
+
 - 第二種電気工事士 取得
+
 - 3次元CAD利用技術者試験 2級合格
+
 - IoT検定パワーユーザー試験　グレードB合格
+
+## 実績
+- Autodesk Fusion学生デザインコンテスト6月入賞
+[Fusion学生デザインコンテスト「傘」の結果発表ページ](https://www.myautodesk.jp/fusion-contest-2024/contest-result-03.html)
+
+- Autodesk Fusion学生デザインコンテスト7月入賞
+[Fusion学生デザインコンテスト「傘」の結果発表ページ](https://www.myautodesk.jp/fusion-contest-2024/contest-result-04.html)
+
+- Startup Weekend Osaka Space 4th 参加
+[Startup Weekend Osaka Space 4thのページ](https://nposw.org/startup-weekend-osaka-space-4th-20240524-26/)
+
+- TechSeeker HACKATHON 2024 参加
+[TechSeeker HACKATHON 2024のページ](https://techseeker.jp/hackathon2024)
