@@ -1,6 +1,6 @@
 ---
 layout: portfolio
-title: page
+title: Page
 ---
 ## 自作ハーバリウムの紹介
 
